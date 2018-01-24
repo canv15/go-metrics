@@ -2,6 +2,7 @@ go-metrics
 ==========
 
 ![travis build status](https://travis-ci.org/rcrowley/go-metrics.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo-metrics.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo-metrics?ref=badge_shield)
 
 Go port of Coda Hale's Metrics library: <https://github.com/dropwizard/metrics>.
 
@@ -164,3 +165,7 @@ Clients are available for the following destinations:
 * Prometheus - https://github.com/deathowl/go-metrics-prometheus
 * DataDog - https://github.com/syntaqx/go-metrics-datadog
 * SignalFX - https://github.com/pascallouisperez/go-metrics-signalfx
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo-metrics.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo-metrics?ref=badge_large)
